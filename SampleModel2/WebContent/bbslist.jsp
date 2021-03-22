@@ -97,6 +97,7 @@ System.out.println("표시되는 페이지 수 :" + bbsPage);
 <br>
 <div align="center">
 <h1 id=head style='cursor:pointer'>게시판</h1>
+<a href="cal?param=calendarList">일정관리</a>
 <br>
 <table class="table table-hover" style="width: 1000px">
 <thead>
